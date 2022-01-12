@@ -25,7 +25,7 @@ print(values_1 == values_2)  # True
 pip install redis-namespaces
 ```
 
-### 注意：redis-namespaces 版本 必须 和 redis-py 版本一致
+### 注意：redis-namespaces 版本必须和 redis-py 版本一致
 
 | redis | redis-namespaces |
 |-------|------------------|
