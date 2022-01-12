@@ -1,9 +1,4 @@
-# python3.9
 # -*- coding: utf-8 -*-
-# @CreateTime    : 2021/12/20 16:02
-# @Author  : JingJunKe
-# @File    : redis-namespaces.py
-# @Software: PyCharm
 
 from functools import wraps
 
